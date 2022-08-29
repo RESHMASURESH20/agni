@@ -72,6 +72,6 @@ form{
     text-align:center;
  }
  input{
-    width:80%;
+  width:80%!important;
  }
 </style>
