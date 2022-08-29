@@ -91,7 +91,7 @@ margin-left: 20%;
 }
 .button1{
 margin-left: 90px;
-background-color: rgb(249, 39, 74);
+background-color: rgb(249, 39, 74)!important;
 border-color:none;
 border-radius: 10px;
 border: 0px solid;
