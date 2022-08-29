@@ -37,9 +37,26 @@ Booked Component:(by click login)
      3)Ticket generated
 
 4)details about the booked ticket will be displayed
+
+DATAS NEED TO BE INSERTED WHILE INSERTING THE MOVIE
+1.name:Cobra
+desc:A mathematician genius Mathi who has another identity Cobra who commits intelligent crimes using Maths.
+video:https://www.youtube.com/embed/8ScCLfGGOPY
+Image:https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/cobra-et00103189-1656312188.jpg
+
+
+2.Name:Sita Ramam
+desc:A long-lost letter must find its way to the recipient twenty years later. A rabble-rouser learns a lesson in humility and love along the way.
+Video:https://www.youtube.com/embed/Ljk6tGZ1l3A
+Image:https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sita-ramam-et00329656-30-05-2022-06-32-41.jpg
+
+3.Name:Viruman
+Desc:Viruman is a Tamil movie directed by M Muthaiah, starring Karthik Sivakumar in the lead role.
+Video:https://www.youtube.com/embed/aRx4-fsJ5uE
+Image:https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/viruman-et00321392-14-01-2022-01-07-39.jpg
+
 BACKEND:
 Steps need to be done:
-
 
 
 Create tables with following properties:
